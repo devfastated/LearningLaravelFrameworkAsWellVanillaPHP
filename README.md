@@ -1,4 +1,4 @@
-# In this dat 21st of December 2023 I want to learn Laravel Framework as long as Vanilla PHP
+#21st of December 2023, I want to learn Laravel Framework as long as Vanilla PHP
 
 I will document each code that i've learned
 
